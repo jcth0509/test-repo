@@ -1,3 +1,4 @@
 This is a test file
 Changing test file
 Changing file in branch directory
+Changing through command line
